@@ -1,0 +1,21 @@
+first_product,second_product,users
+Direct Stocks,Mutual Fund - Equity,73
+Direct Stocks,Mutual Fund - Hybrid,73
+Direct Stocks,ETF,64
+Direct Stocks,Mutual Fund - Debt,58
+ETF,Mutual Fund - Debt,32
+ETF,Mutual Fund - Equity,32
+ETF,Mutual Fund - Hybrid,27
+ETF,Direct Stocks,24
+Mutual Fund - Debt,Mutual Fund - Equity,62
+Mutual Fund - Debt,ETF,43
+Mutual Fund - Debt,Direct Stocks,42
+Mutual Fund - Debt,Mutual Fund - Hybrid,42
+Mutual Fund - Equity,Mutual Fund - Debt,155
+Mutual Fund - Equity,ETF,150
+Mutual Fund - Equity,Direct Stocks,140
+Mutual Fund - Equity,Mutual Fund - Hybrid,132
+Mutual Fund - Hybrid,Mutual Fund - Equity,48
+Mutual Fund - Hybrid,ETF,42
+Mutual Fund - Hybrid,Mutual Fund - Debt,40
+Mutual Fund - Hybrid,Direct Stocks,37

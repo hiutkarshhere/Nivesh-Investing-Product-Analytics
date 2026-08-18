@@ -1,0 +1,4 @@
+risk_profile,baseline_rate_pct,correction_rate_pct,lift_pp,z_stat,p_value,significant
+Conservative,6.06,23.11,17.05,11.356,0.0,True
+Moderate,5.79,13.52,7.73,7.66,0.0,True
+Aggressive,6.01,7.1,1.09,0.913,0.3611,False
