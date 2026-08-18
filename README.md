@@ -1,13 +1,5 @@
-# Nivesh — Investing App Product Analytics
+# Nivesh — Investing App(Groww/Zerodha) Product Analytics
 
-wealth-tech / retail investing (the Groww /
-Zerodha / Kuvera category). Deliberately kept lighter on custom statistical
-machinery than projects 3 and 4 — a KYC-heavy onboarding funnel, SIP
-continuation cohorts, a behavioral event study, and product adoption
-analysis, all in plain pandas/SQL plus one significance test already used
-earlier in this series (the same two-proportion z-test from project 2's
-A/B analysis) — nothing new or unexplainable introduced this late in the
-build.
 
 Stack: **Python (pandas, numpy, seaborn, scipy) → SQL (BigQuery) → Power BI**
 
