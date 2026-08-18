@@ -1,6 +1,6 @@
 # Nivesh — Investing App Product Analytics
 
-**Project 5 of 5.** Rounds out this portfolio series with the one domain
+Rounds out this portfolio series with the one domain
 none of the other four touch: wealth-tech / retail investing (the Groww /
 Zerodha / Kuvera category). Deliberately kept lighter on custom statistical
 machinery than projects 3 and 4 — a KYC-heavy onboarding funnel, SIP
