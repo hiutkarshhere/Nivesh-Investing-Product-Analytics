@@ -3,7 +3,7 @@
 
 Stack: **Python (pandas, numpy, seaborn, scipy) → SQL (BigQuery) → Power BI**
 
-> Same note as the rest of this series: Nivesh is a fictional investing app
+> Nivesh is a fictional investing app
 > and the dataset is a documented simulation. **One assumption matters more
 > here than elsewhere:** the "market correction" this project studies (May
 > 2026) is a hypothetical scenario built to analyze behavioral response, not
